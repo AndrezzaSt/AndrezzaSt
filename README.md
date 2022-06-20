@@ -3,7 +3,7 @@
 I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brasil.
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 - 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrezza-sturm/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AndrezzaSt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrezza-sturm/)
  <div id="badges">
   <a href="https://www.linkedin.com/in/andrezza-sturm/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
