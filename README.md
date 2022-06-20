@@ -2,7 +2,7 @@
 
 I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brasil.
 - :telescope: I’m currently working as a Software Engineer and contributing to back-end for building web applications.
-- :woman_student: Studying Computer Science in Uniritter University.
+- :woman_student: Studying Computer Science at Uniritter University.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AndrezzaSt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrezza-sturm/)
 - :woman_technologist: You can check my solved code challenges:  
 
