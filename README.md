@@ -10,6 +10,9 @@ I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <a href="https://www.hackerrank.com/andrezza_sturm">
     <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
+ <a href="https://www.codewars.com/users/AndrezzaSt">
+    <img src="https://img.shields.io/badge/CodeWars-orange?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars Badge"/>
+  </a>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
