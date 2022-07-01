@@ -10,7 +10,7 @@ I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <a href="https://www.hackerrank.com/andrezza_sturm">
     <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
    </a>
-  <a href="https://www.codewars.com/users/AndrezzaSt/badges/large" rel="nofollow"> alt="AndrezzaSt" data-canonical-        src="https://www.codewars.com/users/AndrezzaSt/badges/large" style="max-width: 100%;">
+  <a href="https://www.codewars.com/users/AndrezzaSt/badges/large" rel="nofollow"> <img src="https://www.codewars.com/users/AndrezzaSt/badges/large"  alt="AndrezzaSt" data-canonical- src="https://www.codewars.com/users/AndrezzaSt/badges/large" style="max-width: 100%;">
      
    </a>
 </div>
