@@ -11,8 +11,10 @@ I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
    </a>
    <br> 
-  <a href="https://www.codewars.com/users/AndrezzaSt/badges/large" rel="nofollow"> <img src="https://www.codewars.com/users/AndrezzaSt/badges/large"  alt="AndrezzaSt" data-canonical- src="https://www.codewars.com/users/AndrezzaSt/badges/large" style="max-width: 100%;">
-     </a>
+   <p dir="auto"><a href="https://www.codewars.com/users/AndrezzaSt" rel="nofollow"><img src="https://www.codewars.com/users/AndrezzaSt/badges/small" alt="AndrezzaSt" data-canonical-src="https://www.codewars.com/users/AndrezzaSt/badges/small" style="max-width: 100%;">
+   </a>
+   </p>
+
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
